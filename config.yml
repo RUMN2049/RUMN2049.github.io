@@ -45,13 +45,13 @@ params:
   #use a ‎ (blank character) if your first character of the ascii art is a whitespace
   greetingbannercolor: green
   greetingbanner: |
-    █▄▄▄▄  ▄   █▀▄▀█    ▄      ▄▄▄▄▄       ███   █    ████▄   ▄▀  
-    █  ▄▀   █  █ █ █     █    █     ▀▄     █  █  █    █   █ ▄▀    
-    █▀▀▌ █   █ █ ▄ █ ██   █ ▄  ▀▀▀▀▄       █ ▀ ▄ █    █   █ █ ▀▄  
-    █  █ █   █ █   █ █ █  █  ▀▄▄▄▄▀        █  ▄▀ ███▄ ▀████ █   █ 
-      █  █▄ ▄█    █  █  █ █                ███       ▀       ███  
-    ▀    ▀▀▀    ▀   █   ██                                       
-                                                                  
+    █▄▄▄▄  ▄   █▀▄▀█    ▄      ▄▄▄▄▄   ███   █    ████▄   ▄▀  
+    █  ▄▀   █  █ █ █     █    █     ▀▄ █  █  █    █   █ ▄▀    
+    █▀▀▌ █   █ █ ▄ █ ██   █ ▄  ▀▀▀▀▄   █ ▀ ▄ █    █   █ █ ▀▄  
+    █  █ █   █ █   █ █ █▄ █  ▀▄▄▄▄▀    █  ▄▀ ███▄ ▀████ █   █ 
+       █  █▄ ▄█    █  █  █ █            ███       ▀       ███  
+      ▀    ▀▀▀    ▀   █   ██                                   
+                                                                                                                                                                                            
   greeting: |
     Welcome to my online resume
 
