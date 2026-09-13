@@ -1,17 +1,17 @@
 ## Example Config file
-baseURL: "https://example.com"
+baseURL: "https://rumn2049.github.io/"
 theme: "terminalcv"
-title: "terminalcv"
+title: "Rumn's Blog"
 
 params:
   version: "2.0.0"
-  description: "My terminal cv"
+  description: "Rumn's Blog"
   blog: 
     enabled: true
     lsClassic: false
   prompt:
     core:
-      text: "user@terminalCV"
+      text: "visitor@rumns-blog"
       color: "pink"
       before: "["
       beforeColor: "red"
@@ -98,169 +98,159 @@ params:
       leftColor: "white"
       rightColor: "white"
       descriptionColor: "white"
-      name: "John Doe"
+      name: "Rumn"
       profession: "Unknown"
       location: "Somewhere"
-      email: "foo@someemail.com"
-      homelink: "https://myHomePage.com"
+      email: "Unknown"
+      homelink: "Coming soon"
       description: |
-        Here you can write something catchy about yourself
+        Hi.
 
-  social:
-    #settings:
-    #  useLess: true
-    #  hideName: true
-    details:
-      - name: "github"
-        url: "https://github.com"
-      - name: "facebook"
-        url: "https://facebook.com"
-      - name: "myspace"
-        url: "https://myspace.com"
-      - name: "hi5"
-        url: "https://www.hi5.com"
-      - name: "instagram"
-        url: "https://instagram.com"
-      - name: "Another social"
-        url: "https://anothersocial.com"
-
-  work:
-    # settings:
-    #   useLess: true
-    details:
-      - jobTitle: Job With Red Title
-        color: red
-        company: "-"
-        location: somewhere
-        date: August 2010 - Present
-        description: Some description about this red title job
-
-      - jobTitle: Job with purple title
-        color: purple
-        company: "-"
-        location: somewhere elese
-        date: July 2000  - July 2010
-        description: Some description about this purple job
-
-      - jobTitle: Job with default color title
-        company: "-"
-        location: anywhere
-        date: July 2008 - 2010
-        description: Description about this default color job
-
-  education:
-    details:
-      - courseName: Red Color training
-        color: red
-        date: June 2019 - July 2019
-        description: Descrption about red color trianing
-
-      - courseName: Default color training
-        date: Sept 2004 - Jun 2008
-        #description: There is no need for description
-
-  skills:
-    settings:
-      useLess: true
-    details:
-      - name: Skill 1
-        percentage: 90
-        Description: you can add a description
-
-      - name: Skill 2
-        percentage: 30
-        #description: or you can leave it comented
-
-      - name: Skill 3
-        color: blue
-        percentage: 50
-        description: Skill names can have colors too
-
-  softskills:
-    # settings:
-    #   useLess: true
-    details:
-      - name: SoftSkill 1
-        color: red
-        percentage: 80
-        #description:
-
-      - name: SoftSkill 2
-        #color:
-        percentage: 90
-        description: Description
-
-  languages:
-    # settings:
-    #   useLess: true
-    details:
-      - name: English
-        color: Blue
-        percentage: 50
-        #description:
-
-      - name: Gibberish
-        percentage: 100
-        description: pasghettipigglywiggly
-
-  projects:
-    # settings:
-    #   useLess: true
-    details:
-      - title: Project Red
-        color: red
-        date: since 2019
-        link: https://example.com
-        description: Describing red stuff
-
-      - title: Project Blue
-        color: blue
-        date: since 2016
-        link: https://example.com/blue
-        #description: nothing to describe
-
-      - title: Project Default
-        date: Since 2017
-        link: https://example.com/default
-        #description: not there either
-
-  publications:
-    # settings:
-    #   useLess: true
-    details:
-      - title: "Machine Learning for Terminal Enthusiasts"
-        color: green
-        authors: "John Doe, Jane Smith"
-        venue: "Journal of Terminal Computing, Vol. 42"
-        date: "2025"
-        link: "https://example.com/paper1"
-        description: "A comprehensive study on ML applications in terminal interfaces"
-
-      - title: "The Art of ASCII: Modern Approaches"
-        color: blue
-        authors: "John Doe"
-        venue: "International Conference on Text-Based Interfaces (ICTBI)"
-        date: "2024"
-        link: "https://example.com/paper2"
-        #description:
-
-      - title: "Understanding Command Line User Experience"
-        authors: "John Doe, Bob Wilson, Alice Brown"
-        venue: "ACM Transactions on Human-Computer Interaction"
-        date: "2023"
-        #link:
-        description: "Research on improving CLI usability and accessibility"
-
-  certifications:
-    # settings:
-    #   useLess: true
-    details:
-      - certName: Example Cert
-        #color: "blue"
-        company: Example Certifying Company
-        date: Date of Completion
-        badge: https://www.link.to.badge
-        #description: Lorem Ipsum
+#  social:
+#    #settings:
+#    #  useLess: true
+#    #  hideName: true
+#    details:
+#      - name: "github"
+#        url: "https://github.com/RUMN2049"
+#
+#  work:
+#    # settings:
+#    #   useLess: true
+#    details:
+#      - jobTitle: Job With Red Title
+#        color: red
+#        company: "-"
+#        location: somewhere
+#        date: August 2010 - Present
+#        description: Some description about this red title job
+#
+#      - jobTitle: Job with purple title
+#        color: purple
+#        company: "-"
+#        location: somewhere elese
+#        date: July 2000  - July 2010
+#        description: Some description about this purple job
+#
+#      - jobTitle: Job with default color title
+#        company: "-"
+#        location: anywhere
+#        date: July 2008 - 2010
+#        description: Description about this default color job
+#
+#  education:
+#    details:
+#      - courseName: Red Color training
+#        color: red
+#        date: June 2019 - July 2019
+#        description: Descrption about red color trianing
+#
+#      - courseName: Default color training
+#        date: Sept 2004 - Jun 2008
+#        #description: There is no need for description
+#
+#  skills:
+#    settings:
+#      useLess: true
+#    details:
+#      - name: Skill 1
+#        percentage: 90
+#        Description: you can add a description
+#
+#      - name: Skill 2
+#        percentage: 30
+#        #description: or you can leave it comented
+#
+#      - name: Skill 3
+#        color: blue
+#        percentage: 50
+#        description: Skill names can have colors too
+#
+#  softskills:
+#    # settings:
+#    #   useLess: true
+#    details:
+#      - name: SoftSkill 1
+#        color: red
+#        percentage: 80
+#        #description:
+#
+#      - name: SoftSkill 2
+#        #color:
+#        percentage: 90
+#        description: Description
+#
+#  languages:
+#    # settings:
+#    #   useLess: true
+#    details:
+#      - name: English
+#        color: Blue
+#        percentage: 50
+#        #description:
+#
+#      - name: Gibberish
+#        percentage: 100
+#        description: pasghettipigglywiggly
+#
+#  projects:
+#    # settings:
+#    #   useLess: true
+#    details:
+#      - title: Project Red
+#        color: red
+#        date: since 2019
+#        link: https://example.com
+#        description: Describing red stuff
+#
+#      - title: Project Blue
+#        color: blue
+#        date: since 2016
+#        link: https://example.com/blue
+#        #description: nothing to describe
+#
+#      - title: Project Default
+#        date: Since 2017
+#        link: https://example.com/default
+#        #description: not there either
+#
+#  publications:
+#    # settings:
+#    #   useLess: true
+#    details:
+#      - title: "Machine Learning for Terminal Enthusiasts"
+#        color: green
+#        authors: "John Doe, Jane Smith"
+#        venue: "Journal of Terminal Computing, Vol. 42"
+#        date: "2025"
+#        link: "https://example.com/paper1"
+#        description: "A comprehensive study on ML applications in terminal interfaces"
+#
+#      - title: "The Art of ASCII: Modern Approaches"
+#        color: blue
+#        authors: "John Doe"
+#        venue: "International Conference on Text-Based Interfaces (ICTBI)"
+#        date: "2024"
+#        link: "https://example.com/paper2"
+#        #description:
+#
+#      - title: "Understanding Command Line User Experience"
+#        authors: "John Doe, Bob Wilson, Alice Brown"
+#        venue: "ACM Transactions on Human-Computer Interaction"
+#        date: "2023"
+#        #link:
+#        description: "Research on improving CLI usability and accessibility"
+#
+#  certifications:
+#    # settings:
+#    #   useLess: true
+#    details:
+#      - certName: Example Cert
+#        #color: "blue"
+#        company: Example Certifying Company
+#        date: Date of Completion
+#        badge: https://www.link.to.badge
+#        #description: Lorem Ipsum
 
   misc:
     # settings:
