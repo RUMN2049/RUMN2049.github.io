@@ -9,6 +9,20 @@
     <lastBuildDate>Thu, 10 Jun 2049 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Anolog1</title>
+      <link>http://localhost:1313/post/ee/anolog/anolog1/</link>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ee/anolog/anolog1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anolog2</title>
+      <link>http://localhost:1313/post/ee/anolog/anolog2/</link>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ee/anolog/anolog2/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Contents</title>
       <link>http://localhost:1313/post/contents/</link>
       <pubDate>Thu, 10 Jun 2049 00:00:00 +0000</pubDate>

@@ -5,7 +5,38 @@
         <h1>{{ .Title }} - {{ .Date.Format "Mon, Jan 2, 2006" }}</h1>
     </div>
     <p class="lead">{{ .Params.description }}</p>
+
     {{ .Content }}
+
+    {{/* ===== Series Navigation: Prev / Next in the same series ===== */}}
+    {{ with (.GetTerms "series") }}
+        {{ range . }}
+            {{ $pages := .Pages.ByWeight }}
+            {{ $curIndex := 0 }}
+            {{ range $idx, $page := $pages }}
+                {{ if eq $page $ }}
+                    {{ $curIndex = $idx }}
+                {{ end }}
+            {{ end }}
+
+            {{ $prevIdx := sub $curIndex 1 }}
+            {{ $nextIdx := add $curIndex 1 }}
+
+            <hr>
+            <div class="series-nav" style="font-size: 0.9rem; color: #666; margin-top: 1.5rem;">
+                <p>Series: <strong>{{ .LinkTitle }}</strong></p>
+                {{ with (index $pages $prevIdx) }}
+                    <a href="{{ .Permalink }}">← {{ .Title }}</a>
+                {{ end }}
+                {{ with (index $pages $nextIdx) }}
+                    &nbsp; | &nbsp;
+                    <a href="{{ .Permalink }}">{{ .Title }} →</a>
+                {{ end }}
+            </div>
+        {{ end }}
+    {{ end }}
+    {{/* ===== Series Navigation End ===== */}}
+
     <h4><a href="{{ .Site.BaseURL }}">{{ i18n "backtohome" }}</a></h4>
 </div>
 
