@@ -23,7 +23,8 @@ series = [
 
 This blog site contains 3 **categories**, several **tags** and **series**.
 
-**Categories** define the purpose of the posts.
+**Categories** define the purpose of the posts
+(Including [Note](/post/categories/note), [Reading](/post/categories/reading) and [Thought](/post/categories/thought)). 
 
 **Tags** show which fields the posts are related to.
 
