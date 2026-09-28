@@ -32,16 +32,7 @@
     <loc>http://localhost:1313/tags/math/</loc>
     <lastmod>2049-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/note/</loc>
-    <lastmod>2049-06-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/physics/</loc>
-    <lastmod>2049-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/politics/</loc>
-    <lastmod>2049-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/reading/</loc>
     <lastmod>2049-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -56,8 +47,17 @@
     <loc>http://localhost:1313/series/analog_electronics/</loc>
     <lastmod>2026-09-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/note/</loc>
+    <lastmod>2026-09-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/series/</loc>
     <lastmod>2026-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/politics/</loc>
+    <lastmod>2026-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/reading/</loc>
+    <lastmod>2026-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/dailyreading/reading260921/</loc>
     <lastmod>2026-09-21T00:00:00+00:00</lastmod>
