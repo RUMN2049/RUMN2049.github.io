@@ -1,4 +1,4 @@
-baseURL = "https://RUMN2049.github.io/Rumn_blog/"
+baseURL = "https://github.com/RUMN2049/RUMN2049.github.io"
 title = "Rumn's Blog"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
