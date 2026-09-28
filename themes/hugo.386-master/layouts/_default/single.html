@@ -11,7 +11,7 @@
     {{/* ===== Series Navigation: Prev / Next in the same series ===== */}}
     {{ with (.GetTerms "series") }}
         {{ range . }}
-            {{ $pages := .Pages.ByWeight }}
+            {{ $pages := .Pages.ByDate }}
             {{ $curIndex := 0 }}
             {{ range $idx, $page := $pages }}
                 {{ if eq $page $ }}

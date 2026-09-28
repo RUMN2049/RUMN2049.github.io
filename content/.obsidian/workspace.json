@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/EE/Anolog/Anolog1.md",
+                "file": "post/Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anolog1"
+              "title": "Contents"
             }
           }
         ]
@@ -190,21 +190,25 @@
   },
   "active": "257d5425849eeb72",
   "lastOpenFiles": [
-    "post/EE/Anolog/Anolog2.md",
-    "post/EE/Anolog/Anolog1.md",
-    "post/Contents.md",
-    "post/EE/Anolog",
-    "post/EE",
-    "post/未命名.md",
-    "post/emoji-support.md",
-    "post/placeholder-text.md",
-    "post/markdown-syntax.md",
     "post/_index.md",
+    "post/demos/rich-content.md",
+    "post/demos/placeholder-text.md",
+    "post/demos/markdown-syntax.md",
+    "post/demos/emoji-support.md",
+    "post/DailyReading/Reading260921.md",
+    "post/EE/AnologElectronics/Anolog1.md",
+    "post/EE/AnologElectronics/Anolog2.md",
+    "README.md",
+    "post/DailyReading",
+    "post/Contents.md",
+    "post/未命名.md",
+    "post/demos",
+    "post/EE/Anolog/未命名.md",
+    "post/EE/AnologElectronics",
+    "post/EE",
     "Reading260921.md",
-    "post/Reading260921.md",
     "_index.md",
     "post/AllContent.md",
-    "post/rich-content.md",
     "archives.md",
     "about.md"
   ]

@@ -8,9 +8,16 @@
 </article>
 <ul>
 <!-- Ranges through content/posts/*.md -->
-{{ range .Pages }}
+{{ $pages := .RegularPagesRecursive }}
+{{ if eq .Type "series" }}
+    {{ $pages = .RegularPagesRecursive.ByWeight }}
+{{ else }}
+    {{ $pages = .RegularPagesRecursive.ByDate.Reverse }}
+{{ end }}
+
+{{ range $pages }}
     <li>
-        <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+        <a href="{{.Permalink}}">{{ if ne .Date.Year 1 }}{{ .Date.Format "2006-01-02" }} | {{ end }}{{ .Title }}</a>
         {{ with .Params.categories }}
             <span class="post-meta" style="font-size: 0.85rem; color: #888;">
                 | Category:
@@ -38,8 +45,14 @@
                 {{ end }}
             </span>
         {{ end }}
+
+        {{/* Show description only on series list pages */}}
+        {{ if eq $.Type "series" }}
+            {{ with .Params.description }}
+                <p class="post-desc" style="font-size: 0.9rem; color: #666; margin: 4px 0;">{{ . }}</p>
+            {{ end }}
+        {{ end }}
     </li>
 {{ end }}
 </ul>
 {{ end }}
-
