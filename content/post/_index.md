@@ -21,4 +21,4 @@ series = [
 
 All posts are listed below.
 
-For more detailed index, see [Contents](/post/Contents).
+For more detailed index, see [Contents](/post/contents).
