@@ -1,6 +1,24 @@
 +++
-aliases = ["posts","articles","blog","showcase","docs"]
-title = "Posts"
-author = "Hugo Authors"
-tags = ["index"]
+author = "Rumn"
+title = "Index"
+tags = [
+    "Math",
+    "Physics",
+    "Politics",
+    "EconFinance",
+    "Literature",
+    "EECS"
+]
+categories = [
+    "Note",
+    "Reading",
+	"Thought"
+]
+series = [
+	"Analog"
+]
 +++
+
+All posts are listed below.
+
+For more detailed index, see [Contents](/post/Contents).

@@ -3,17 +3,8 @@ author = "Rumn"
 title = "Reading260921"
 date = "2026-09-21"
 description = "《政治学通识》包刚升 第一讲：什么是政治"
-tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
-]
-categories = [
-    "themes",
-    "syntax",
-]
-series = ["Habits"]
+Categories = ["Reading"]
+tags = ["Politics"]
 +++
 
 本讲是让读者对政治形成基本的概念和认识，因此我将大致记录目前对”政治“这一学科的理解。

@@ -11,6 +11,33 @@
 {{ range .Pages }}
     <li>
         <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+        {{ with .Params.categories }}
+            <span class="post-meta" style="font-size: 0.85rem; color: #888;">
+                | Category:
+                {{ range $index, $cat := . }}
+                    {{ if $index }} · {{ end }}
+                    <a href="{{ "/categories/" | relURL }}{{ $cat | urlize }}/">{{ $cat }}</a>
+                {{ end }}
+            </span>
+        {{ end }}
+        {{ with .Params.tags }}
+            <span class="post-meta" style="font-size: 0.85rem; color: #888;">
+                | Tags:
+                {{ range $index, $tag := . }}
+                    {{ if $index }} · {{ end }}
+                    <a href="{{ "/tags/" | relURL }}{{ $tag | urlize }}/">#{{ $tag }}</a>
+                {{ end }}
+            </span>
+        {{ end }}
+        {{ with .Params.series }}
+            <span class="post-meta" style="font-size: 0.85rem; color: #888;">
+                | Series:
+                {{ range $index, $s := . }}
+                    {{ if $index }} · {{ end }}
+                    <a href="{{ "/series/" | relURL }}{{ $s | urlize }}/">{{ $s }}</a>
+                {{ end }}
+            </span>
+        {{ end }}
     </li>
 {{ end }}
 </ul>
