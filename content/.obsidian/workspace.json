@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/Japanese/JapaneseGrammar.md",
+                "file": "post/Japanese/JPGram0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JapaneseGrammar"
+              "title": "JPGram0"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/Japanese/JapaneseGrammar.md",
+                "file": "post/Japanese/JPGram0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,10 +190,15 @@
   },
   "active": "257d5425849eeb72",
   "lastOpenFiles": [
-    "post/demos/markdown-syntax.md",
+    "archives.md",
+    "README.md",
+    "about.md",
+    "post/Japanese/JPGram0.md",
     "post/Japanese/JapaneseGrammar.md",
-    "post/Math/DiscreteMath/DM1.md",
+    "post/EE/AnologElectronics/Anolog2.md",
     "post/EE/AnologElectronics/Anolog1.md",
+    "post/demos/markdown-syntax.md",
+    "post/Math/DiscreteMath/DM1.md",
     "post/Physics/ElectroMagnetism/EM1.md",
     "post/test/EM1 15.md",
     "post/test/EM1 14.md",
@@ -212,11 +217,6 @@
     "post/test/EM1 2.md",
     "post/test/EM1 1.md",
     "post/test/EM1.md",
-    "post/Studiary.md",
-    "EM1 7.md",
-    "EM1 6.md",
-    "EM1 5.md",
-    "EM1 4.md",
     "post/Math/DiscreteMath/DM1",
     "post/Math/DiscreteMath",
     "post/Physics/ElectroMagnetism",

@@ -50,5 +50,12 @@
       <guid>http://localhost:1313/post/ee/anologelectronics/anolog2/</guid>
       <description>&lt;p&gt;本章导图：&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Chain of Questions&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;基本共射放大电路&#34;&gt;基本共射放大电路&lt;/h2&gt;&#xA;&lt;h4 id=&#34;电路搭建&#34;&gt;电路搭建&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;1、&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
+    <item>
+      <title>JapaneseGrammar</title>
+      <link>http://localhost:1313/post/japanese/grammar/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/japanese/grammar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;#test&#34;&gt;测试跳转&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h6 id=&#34;test&#34;&gt;test&lt;/h6&gt;</description>
+    </item>
   </channel>
 </rss>

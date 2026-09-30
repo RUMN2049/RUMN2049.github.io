@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/tags/language/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JapaneseGrammar</title>
-      <link>http://localhost:1313/post/japanese/japanesegrammar/</link>
+      <link>http://localhost:1313/post/japanese/grammar/</link>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/japanese/japanesegrammar/</guid>
-      <description>&lt;h1 id=&#34;用言活用&#34;&gt;用言活用&lt;/h1&gt;&#xA;&lt;h2 id=&#34;13种动词变形&#34;&gt;13种动词变形&lt;/h2&gt;&#xA;&lt;h2 id=&#34;形容词变形表格&#34;&gt;形容词变形表格&lt;/h2&gt;&#xA;&lt;p&gt;形容词分一类和二类&lt;/p&gt;&#xA;&lt;p&gt;以高い（一类）和有名（二类）为例&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+      <guid>http://localhost:1313/post/japanese/grammar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;#test&#34;&gt;测试跳转&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h6 id=&#34;test&#34;&gt;test&lt;/h6&gt;</description>
     </item>
   </channel>
 </rss>
