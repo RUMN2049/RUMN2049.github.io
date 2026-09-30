@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/post/math/discretemath/dm1/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/physics/electromagnetism/em1/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/math/probstats/probstats1/</loc>
+    <lastmod>2026-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/ee/anologelectronics/anolog1/</loc>
     <lastmod>2026-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/math/probstats/probstats2/</loc>
+    <lastmod>2026-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/ee/anologelectronics/anolog2/</loc>
     <lastmod>2026-09-28T00:00:00+00:00</lastmod>
@@ -41,16 +53,31 @@
     <loc>http://localhost:1313/categories/thought/</loc>
     <lastmod>2049-06-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/methodology/</loc>
+    <lastmod>2049-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/studiary/</loc>
+    <lastmod>2049-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/discrete_mathematics/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/electromagnetism/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/note/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/probability_statistics/</loc>
+    <lastmod>2026-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/analog_electronics/</loc>
-    <lastmod>2026-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/note/</loc>
-    <lastmod>2026-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
     <lastmod>2026-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/politics/</loc>

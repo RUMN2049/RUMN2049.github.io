@@ -7,7 +7,7 @@ buildFuture = true
 
 [params]
     mainpagetitle = "Rumn's Blog"
-    mainpagesubtitle = """ "Coming 2 U live!" """
+    mainpagesubtitle = """ Coming 2 U Live! """
     mainpagedesc = " Welcome to Rumn's blog. Check the links below to access the posts."
     copyrightname = "Rumn"
     copyrighturl = ""

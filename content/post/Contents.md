@@ -24,11 +24,13 @@ This blog site contains 3 **categories**, several **tags** and **series**.
 (Including [Math](/tags/math), [Physics](/tags/physics), [Politics](/tags/politics), [EconFinance](/tags/econfinance), [Literature](/tags/literature) and [EECS](/tags/eecs)).
 
 **Series** connect posts through a shared context — typically a continuous learning journey.
-(Including [Analog Elecreonics](/series/analog_elecreonics)).  
+(Including [Analog Elecreonics](/series/analog_elecreonics)，[Probability and Statistics](/series/Probability_Statistics)).  
 ## Contents
 # <mark>1.Note</mark>  
 ### Series:
-Anolog
+[Analog Elecreonics](/series/analog_elecreonics)
+
+[Probability and Statistics](/series/Probability_Statistics)
 ### Standalone:
 To be continued.  
 # <mark>2.Reading</mark>  
