@@ -23,6 +23,13 @@
       <description></description>
     </item>
     <item>
+      <title>日本語文法0：目録</title>
+      <link>http://localhost:1313/post/japanese/jpgram0/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/japanese/jpgram0/</guid>
+      <description>&lt;p&gt;来源：&lt;a href=&#34;https://wordrabbit.jp/grammar/&#34;&gt;日本語の文法の基礎まとめ | 分かりやすい入門編 | wordrabbit&lt;/a&gt;&#xA;区别于新标日（教育语法体系），这里是学校语法体系，更正宗且本质。&lt;/p&gt;&#xA;&lt;p&gt;日语语言特点：黏着语&#xA;把学校语法体系里的东西比作一个个逻辑门，教育语法体系教的很多东西就是逻辑门集成为加法器计数器之后，当作一个最小模块来使用，其实还是一层一层的abstraction。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Prob&amp;Stats1：经典概率和条件概率</title>
       <link>http://localhost:1313/post/math/probstats/probstats1/</link>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
@@ -49,13 +56,6 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/ee/anologelectronics/anolog2/</guid>
       <description>&lt;p&gt;本章导图：&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Chain of Questions&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;基本共射放大电路&#34;&gt;基本共射放大电路&lt;/h2&gt;&#xA;&lt;h4 id=&#34;电路搭建&#34;&gt;电路搭建&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;1、&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>JapaneseGrammar</title>
-      <link>http://localhost:1313/post/japanese/grammar/</link>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/japanese/grammar/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;#test&#34;&gt;测试跳转&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h6 id=&#34;test&#34;&gt;test&lt;/h6&gt;</description>
     </item>
   </channel>
 </rss>

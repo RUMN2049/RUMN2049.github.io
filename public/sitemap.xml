@@ -8,6 +8,9 @@
     <loc>http://localhost:1313/post/physics/electromagnetism/em1/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/post/japanese/jpgram0/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/math/probstats/probstats1/</loc>
     <lastmod>2026-09-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -65,7 +68,7 @@
     <loc>http://localhost:1313/series/electromagnetism/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/japanese/grammar/</loc>
+    <loc>http://localhost:1313/series/japanese_grammar/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/language/</loc>
