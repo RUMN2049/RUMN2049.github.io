@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/Japanese/JPGram0.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JPGram0"
+              "title": "README"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0db7983668124b3",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/Japanese/JPGram0.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,14 +191,21 @@
   },
   "active": "257d5425849eeb72",
   "lastOpenFiles": [
+    "post/EconFinance/CorporateFinance/CF2.md",
+    "post/demos/markdown-syntax.md",
+    "post/demos/placeholder-text.md",
+    "post/Studiary.md",
+    "post/EconFinance/CorporateFinance/CF0.md",
+    "post/EconFinance/CorporateFinance/CF1.md",
+    "post/Japanese/JPGram0.md",
+    "post/EE/AnologElectronics/Anolog1.md",
+    "post/EconFinance/CorporateFinance",
+    "post/EconFinance",
     "archives.md",
     "README.md",
     "about.md",
-    "post/Japanese/JPGram0.md",
     "post/Japanese/JapaneseGrammar.md",
     "post/EE/AnologElectronics/Anolog2.md",
-    "post/EE/AnologElectronics/Anolog1.md",
-    "post/demos/markdown-syntax.md",
     "post/Math/DiscreteMath/DM1.md",
     "post/Physics/ElectroMagnetism/EM1.md",
     "post/test/EM1 15.md",
@@ -211,20 +219,13 @@
     "post/test/EM1 7.md",
     "post/test/EM1 6.md",
     "post/test/EM1 5.md",
-    "post/test/EM1 4.md",
     "post/test",
-    "post/test/EM1 3.md",
-    "post/test/EM1 2.md",
-    "post/test/EM1 1.md",
-    "post/test/EM1.md",
     "post/Math/DiscreteMath/DM1",
     "post/Math/DiscreteMath",
     "post/Physics/ElectroMagnetism",
     "post/Physics",
     "post/Japanese",
     "post/Math/ProbStats",
-    "post/Math",
-    "post/DailyReading",
-    "post/demos"
+    "post/Math"
   ]
 }

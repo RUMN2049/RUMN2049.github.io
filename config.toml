@@ -68,3 +68,34 @@ series = "series"
     disableInlineCSS = true
   [services.x]
     disableInlineCSS = true
+
+# ===== Markdown rendering configuration =====
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+      [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.subscript]
+          enable = true
+        [markup.goldmark.extensions.extras.superscript]
+          enable = false
+        [markup.goldmark.extensions.extras.mark]
+          enable = true
+        [markup.goldmark.extensions.extras.insert]
+          enable = true
+
+  [markup.highlight]
+    style = "monokai"
+    noClasses = false
+
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+    ordered = false

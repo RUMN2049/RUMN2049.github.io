@@ -9,4 +9,8 @@
     <link rel="canonical" href="{{ .Site.BaseURL }}">
     {{/* Don't ask why it's like this. This original theme is a mess... */}}
     <!-- <noscript><style>body { visibility: visible }</style></noscript> -->
+
+    {{ if .Param "math" }}
+      {{ partialCached "math.html" . }}
+    {{ end }}
 </head>
