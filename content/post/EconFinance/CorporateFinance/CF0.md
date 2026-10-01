@@ -20,6 +20,7 @@ weight=1
 Still,the note won't be detailed.I'll list a roadmap and record the key takeaways.Check the references below for detailed knowledge.
 
 References：
+- Ross, S. A., Westerfield, R. W., & Jaffe, J. F. (2011). *Corporate finance* (9th ed.). McGraw-Hill & China Machine Press.
 - 罗斯, 威斯特菲尔德, 杰富. 公司理财[M]. 吴世农, 等译. 11版. 北京: 机械工业出版社, 2017.
 
 BTW,we're suggested to learn the course bilingually,so most of the notes are in English.

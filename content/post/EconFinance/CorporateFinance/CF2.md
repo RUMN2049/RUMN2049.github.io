@@ -30,14 +30,27 @@ Chain of Questions
 
 ## Four Methods of Project valuation
 
+
+
 ## Free Cash Flow
+
 
 
 ```text
   
 ```
 
+Annuity is a basic model,which has four categories.The pricing or valuation of bonds and stocks are based on it.
 
+The key is to draw the timeline.
+
+Understand that the calcualtion is basically discounting every FV to PV.(When you're dividing the FVs by \({(1+r)^n} \) you're already doing that)
+
+There're two common mistakes:
+	1. how many years to discount
+	2. should day0 be counted
+
+Bonds 
 
 行内公式：\( PV = \frac{FV}{(1+r)^T} \)
 

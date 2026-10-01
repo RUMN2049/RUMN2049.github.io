@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "post/EconFinance/CorporateFinance/CF2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "CF2"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "post/EconFinance/CorporateFinance/CF2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,18 +191,18 @@
   },
   "active": "257d5425849eeb72",
   "lastOpenFiles": [
+    "post/EconFinance/CorporateFinance/CF0.md",
     "post/EconFinance/CorporateFinance/CF2.md",
+    "README.md",
     "post/demos/markdown-syntax.md",
     "post/demos/placeholder-text.md",
     "post/Studiary.md",
-    "post/EconFinance/CorporateFinance/CF0.md",
     "post/EconFinance/CorporateFinance/CF1.md",
     "post/Japanese/JPGram0.md",
     "post/EE/AnologElectronics/Anolog1.md",
     "post/EconFinance/CorporateFinance",
     "post/EconFinance",
     "archives.md",
-    "README.md",
     "about.md",
     "post/Japanese/JapaneseGrammar.md",
     "post/EE/AnologElectronics/Anolog2.md",
